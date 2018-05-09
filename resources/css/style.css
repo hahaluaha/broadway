@@ -7,8 +7,9 @@ max-width: 1200px;
 
 }
 
-#header h1  {
+header h1, nav  {
 
+  display: block;
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
@@ -23,8 +24,9 @@ max-width: 1200px;
 
 .menu {
 
-  font-size: 18px;
-  color: white;
+   font-family: Helvetica;
+   font-size: 32px;
+   font-weight: bold;
 
 }
 
